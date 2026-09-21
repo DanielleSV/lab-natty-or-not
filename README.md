@@ -1,4 +1,4 @@
-# O Guia Definitivo da IA na Gestão Estratégica: Eficiência com Responsabilidade Ética ;)
+# O Guia da IA na Gestão Estratégica: Eficiência com Responsabilidade Ética ;)
 
 ## 📒 Descrição
 Um guia educativo digital direcionado a gestores, líderes e educadores corporativos, demonstrando como integrar Inteligência Artificial no planejamento estratégico e na tomada de decisões, mantendo pilares éticos e o protagonismo humano inegociáveis.
