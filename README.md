@@ -15,7 +15,8 @@ Um guia educativo digital direcionado a gestores, líderes e educadores corporat
 4. **Refinamento Ético:** Criação de um capítulo exclusivo detalhando vieses de dados, privacidade (LGPD/GDPR) e a responsabilidade humana nas decisões automatizadas.
 
 ## 🚀 Resultados
-O resultado é um e-book em PDF altamente estético e educativo, pronto para ser compartilhado com equipes de liderança. O arquivo final pode ser acessado [INSIRA O LINK DO SEU PDF/CANVA AQUI].
+O resultado é um e-book em PDF altamente estético e educativo, pronto para ser compartilhado com equipes de liderança. O arquivo final pode ser acessado
+https://gamma.app/docs/O-Guia-Definitivo-da-IA-na-Gestao-Estrategica-Eficiencia-com-Resp-rgzm7u880rty9nt.
 
 ## 💭 Reflexão
 Criar um conteúdo "Natty" (com aspecto natural e autêntico) usando IA exige o papel do especialista como curador. A IA acelera a produção, mas o tom pedagógico, a criticidade ética e a aplicabilidade prática vêm 100% da inteligência e da experiência humana.
