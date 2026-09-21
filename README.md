@@ -9,7 +9,7 @@ Um guia educativo digital direcionado a gestores, líderes e educadores corporat
 * **Gamma App ou Canva:** Para a diagramação e design visual do e-book final.
 
 ## 🧐 Processo de Criação
-1. **Abordagem Human-Centric:** Inclusão de um capítulo inicial (Capítulo 0) definindo a IA como coadjuvante técnica e o ser humano como o verdadeiro propulsor estratégico.
+1. **Abordagem Human-Centric:** Inclusão de um capítulo inicial (Capítulo 1) definindo a IA como coadjuvante técnica e o ser humano como o verdadeiro propulsor estratégico.
 2. **Curadoria de Conteúdo:** Utilização de prompts especializados em educação corporativa para cruzar frameworks de gestão (como BSC e OKRs) com capacidades de IA.
 3. **Design Visual:** Geração de imagens no Leonardo.Ai focadas em "ambientes corporativos modernos, diversidade e tecnologia limpa" para evitar os clichês visuais de robôs azuis.
 4. **Refinamento Ético:** Criação de um capítulo exclusivo detalhando vieses de dados, privacidade (LGPD/GDPR) e a responsabilidade humana nas decisões automatizadas.
