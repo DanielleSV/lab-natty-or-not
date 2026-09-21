@@ -4,9 +4,8 @@
 Um guia educativo digital direcionado a gestores, líderes e educadores corporativos, demonstrando como integrar Inteligência Artificial no planejamento estratégico e na tomada de decisões, mantendo pilares éticos e o protagonismo humano inegociáveis.
 
 ## 🤖 Tecnologias Utilizadas
-* **ChatGPT / Claude:** Para estruturação pedagógica e redação dos textos teóricos.
 * **Leonardo.Ai (Modelo Phoenix):** Para a criação de imagens fotorrealistas e conceituais que ilustram a capa e os capítulos do guia.
-* **Gamma App ou Canva:** Para a diagramação e design visual do e-book final.
+* **Gamma App:** Para a diagramação e design visual do e-book final.
 
 ## 🧐 Processo de Criação
 1. **Abordagem Human-Centric:** Inclusão de um capítulo inicial (Capítulo 1) definindo a IA como coadjuvante técnica e o ser humano como o verdadeiro propulsor estratégico.
@@ -15,7 +14,7 @@ Um guia educativo digital direcionado a gestores, líderes e educadores corporat
 4. **Refinamento Ético:** Criação de um capítulo exclusivo detalhando vieses de dados, privacidade (LGPD/GDPR) e a responsabilidade humana nas decisões automatizadas.
 
 ## 🚀 Resultados
-O resultado é um e-book em PDF altamente estético e educativo, pronto para ser compartilhado com equipes de liderança. O arquivo final pode ser acessado
+O resultado é um e-book em PDF estético e educativo, pronto para ser compartilhado com equipes de liderança. O arquivo final pode ser acessado
 https://gamma.app/docs/O-Guia-Definitivo-da-IA-na-Gestao-Estrategica-Eficiencia-com-Resp-rgzm7u880rty9nt.
 
 ## 💭 Reflexão
